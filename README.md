@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0025-reverse-nodes-in-k-group) |
+## Array
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
