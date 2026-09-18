@@ -8,7 +8,43 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+class Solution {
+    public ListNode mergeKLists(ListNode[] lists) {
 
+        PriorityQueue<ListNode> pq = new PriorityQueue<>(
+            (a, b) -> a.val - b.val
+        );
+
+        // Add first node of every list
+        for(int i = 0; i < lists.length; i++)
+        {
+            if(lists[i] != null)
+            {
+                pq.add(lists[i]);
+            }
+        }
+
+        ListNode dummy = new ListNode(0);
+        ListNode ptr = dummy;
+
+        while(!pq.isEmpty())
+        {
+            ListNode temp = pq.poll();
+
+            ptr.next = temp;
+            ptr = ptr.next;
+
+            if(temp.next != null)
+            {
+                pq.add(temp.next);
+            }
+        }
+
+        return dummy.next;
+    }
+}
+
+/*
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
 
@@ -60,7 +96,7 @@ class Solution {
         return dummy.next;
     }
 }
-
+*/
 
 /*class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
