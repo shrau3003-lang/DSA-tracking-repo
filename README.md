@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
