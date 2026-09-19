@@ -9,7 +9,67 @@
  * }
  */
 
+
 class Solution {
+    public ListNode sortList(ListNode head) {
+
+        if(head == null || head.next == null)
+            return head;
+
+        // Find middle
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        // Split into two lists
+        ListNode second = slow.next;
+        slow.next = null;
+
+        // Sort both halves
+        ListNode left = sortList(head);
+        ListNode right = sortList(second);
+
+        // Merge sorted lists
+        return merge(left, right);
+    }
+
+    public ListNode merge(ListNode l1, ListNode l2)
+    {
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
+
+        while(l1 != null && l2 != null)
+        {
+            if(l1.val <= l2.val)
+            {
+                temp.next = l1;
+                l1 = l1.next;
+            }
+            else
+            {
+                temp.next = l2;
+                l2 = l2.next;
+            }
+
+            temp = temp.next;
+        }
+
+        if(l1 != null)
+            temp.next = l1;
+
+        if(l2 != null)
+            temp.next = l2;
+
+        return dummy.next;
+    }
+}
+
+/*class Solution {
     public ListNode sortList(ListNode head) {
    int count=0;
    ListNode temp=head;
@@ -35,10 +95,10 @@ class Solution {
     temp.val = arr[i];
     temp = temp.next;
    }
-   
+
    return head;
     }
-}
+}*/
 
 /*
 class Solution {
