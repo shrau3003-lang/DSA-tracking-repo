@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
