@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
+| [0725-split-linked-list-in-parts](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
