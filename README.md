@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0138-copy-list-with-random-pointer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
