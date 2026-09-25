@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
