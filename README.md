@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -36,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
