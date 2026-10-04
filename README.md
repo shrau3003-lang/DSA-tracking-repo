@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
 |  |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0257-binary-tree-paths) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shrau3003-lang/DSA-tracking-repo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
